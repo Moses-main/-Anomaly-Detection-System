@@ -1,0 +1,3 @@
+1. recharts
+
+// copy the entire installations in the package.json file
